@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EntornosDesarrolloJava:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EntornosDesarrolloJava_jar</output-path>
+    <root id="archive" name="EntornosDesarrolloJava.jar">
+      <element id="module-output" name="EntornosDesarrolloJava" />
+      <element id="library" level="application" name="Python 3.13 (EntornoDesarrollo) interpreter library" />
+    </root>
+  </artifact>
+</component>
