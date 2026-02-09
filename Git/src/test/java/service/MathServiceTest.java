@@ -23,4 +23,12 @@ class MathServiceTest {
 
         assertEquals(5, res);
     }
+
+    @Test
+    public  void  testRestar(){
+        int a = 5;
+        int b = 4;
+        int res = MathService.restar(5,4);
+        assertEquals(1,res);
+    }
 }
